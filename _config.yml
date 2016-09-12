@@ -1,0 +1,28 @@
+title: Daniel Bryła <br> thoughts
+description: Thoughts and challenges of programmer.
+
+url: http://dbryla.github.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: dbryla 
+   email: dan.bryla@gmail.com
+   linkedin: daniel-bryła-29b03958
+   stackoverflow: 6391572/daniel-bryła
+
+google_analytics: "UA-84022539-1"
