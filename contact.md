@@ -10,7 +10,7 @@ title: Contact Daniel Bryła
     <p>I would love to get feedback from you about my posts, website and interesting job offers.</p>
     <p>The form is provided by <a href="http://formspree.io/">Formspree.</a></p>
   </div>
-  <form action="http://formspree.io/dan.bryla@gmail.com" method="POST">
+  <form action="https://formspree.io/dan.bryla@gmail.com" method="POST">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
